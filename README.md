@@ -38,6 +38,10 @@ To get started refer to the following in the documents folder:
 In addition, refer to the sample source code in the source examples folder.
 
 ## Updates
+* Nov 1, 2025: Updated image files to version 0.7.12. Now supports:
+*  USB 2.0, boot from USB stick (read and write).
+*  USB 2.0, keyboard (limited but what is needed is there).
+*  Network, INTEL 8257x NIC driver.
 * Dec 25, 2024: Updated OS images, added support for RealTek RTL8139 NIC. 
 * May 21, 2021:
   * Added new C libraries; sound blaster 16, PC speaker
